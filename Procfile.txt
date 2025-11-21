@@ -1,0 +1,1 @@
+web: gunicorn wk7_ANTL5100:app --bind 0.0.0.0:$PORT
